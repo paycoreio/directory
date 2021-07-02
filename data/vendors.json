@@ -28218,5 +28218,14 @@
       "ru": "Trust Payments",
       "uk": "Trust Payments"
     }
+  },
+  {
+    "code": "thorpayments",
+    "status": "active",
+    "name": {
+      "en": "Thor Payments",
+      "ru": "Thor Payments",
+      "uk": "Thor Payments"
+    }
   }
 ]
